@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kandukur Dheeraj | Global Operations Leader</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<header class="hero">
+
+<h1 class="intro">Kandukur Dheeraj</h1>
+
+<p class="tagline">
+Global Petroleum & Logistics Operations Leader
+</p>
+
+<a href="#about">
+<button class="cta">Explore Portfolio</button>
+</a>
+
+</header>
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+General Manager with 10+ years international experience in petroleum logistics,
+supply chain operations and global business leadership across Africa.
+</p>
+
+</section>
+
+<section id="timeline">
+
+<h2>Career Timeline</h2>
+
+<div class="timeline">
+
+<div class="event">
+<h3>General Manager</h3>
+<p>Fastrack Petroleum Limited</p>
+</div>
+
+<div class="event">
+<h3>Head of Operations</h3>
+<p>Mount Meru Group</p>
+</div>
+
+<div class="event">
+<h3>Senior Operations Manager</h3>
+<p>Mount Meru Group Zambia</p>
+</div>
+
+<div class="event">
+<h3>Marketing Manager</h3>
+<p>Zenith Marketing</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="skills">
+
+<h2>Core Expertise</h2>
+
+<div class="skills">
+
+<span>Petroleum Logistics</span>
+<span>Fleet Management</span>
+<span>Supply Chain Optimization</span>
+<span>International Trade</span>
+<span>Operations Leadership</span>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>+91 8897393898</h2>
+
+<p>Email: dheeraj.kdkr@gmail.com</p>
+
+<p>LinkedIn: https://www.linkedin.com/in/dheeraj-k</p>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
